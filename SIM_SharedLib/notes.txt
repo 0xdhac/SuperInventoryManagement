@@ -1,0 +1,3 @@
+- Create SKU format and a function that can generate one
+- Create category codes
+- Create schemas to verify each type of structure 
